@@ -2,8 +2,10 @@
 My playground for WWDC17 Scholarship
 
 Playground - noun: a place where people can play
+
 Created by Niklas Bülow on 28.03.17.
 Copyright © 2017 Niklas Bülow. All rights reserved.
+
 ---
  
 ## SPACEJOURNEY - WWDC 2017 playground by Niklas Bülow
